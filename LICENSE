@@ -1,6 +1,11 @@
 MIT License
 
 Copyright (c) 2022 davethepunkyone
+Additional copyrights (c) to the respective projects installed within:
+ - Cypress IO (https://github.com/cypress-io/cypress)
+ - Oracle node-oracledb (https://github.com/oracle/node-oracledb)
+ - badeball Cypress Cucumber Preprocessor (https://github.com/badeball/cypress-cucumber-preprocessor)
+ - bahmutov Cypress ESbuild Preprocessor (https://github.com/bahmutov/cypress-esbuild-preprocessor)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
