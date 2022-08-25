@@ -1,10 +1,11 @@
 {
     "compilerOptions": {
-      "strict": true,
+      "strict": false,
       "suppressImplicitAnyIndexErrors": true,
       "baseUrl": "../node_modules",
-      "target": "es5",
-      "lib": ["es5", "dom"],
+      "moduleResolution": "node",
+      "target": "es6",
+      "lib": ["es6", "dom"],
       "types": ["cypress", "node"]
     },
     "include": ["**/*.ts"]

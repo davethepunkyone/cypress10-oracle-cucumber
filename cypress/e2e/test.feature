@@ -1,6 +1,6 @@
 Feature: Test Feature
 
-    This feature is a test feature.
-
-Scenario: Get ID for user
-    Given I retrieve an ID from the database
+Scenario: Basic scenario
+    Given I go to duckduckgo.com
+    When I search for the term: "Test"
+    Then The url contains the searched term
